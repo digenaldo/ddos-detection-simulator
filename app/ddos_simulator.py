@@ -23,7 +23,7 @@ def hulk_attack(url, num_requests):
         response = requests.get(url)
         print(f"Hulk Attack - Status Code: {response.status_code}")
 
-url = 'http://127.0.0.1:5000/'
+url = 'http://127.0.0.1:5001/'
 
 # Simulate different types of traffic
 threads = []
