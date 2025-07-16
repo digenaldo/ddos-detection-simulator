@@ -7,6 +7,8 @@ The research conducted in this project involves the investigation of various cla
 
 For more information about the research objectives, methodologies, and outcomes, please refer to the project documentation or contact the project supervisor.
 
+- [Paper](https://sol.sbc.org.br/index.php/wgrs/article/view/35631/35418)
+
 ## Project Structure
 
 The project is organized as follows:
