@@ -1,4 +1,3 @@
-
 # DDoS Detection Project
 
 This repository is part of a Master's degree research project focused on developing and evaluating a detection scheme for application layer DDoS attacks using machine learning and big data analytics techniques. The project aims to contribute to the field of cybersecurity by exploring innovative approaches to enhance threat detection and mitigation strategies.
@@ -34,14 +33,13 @@ ddos-detection-project/
 ├── logs/
 │   └── app.log                 # Application log file
 │
-├── tests/
-│   └── test_detection.py       # Unit tests for detection
-│
 ├── models/
 │   ├── random_forest_model.pkl  # Trained model file
 │   └── minmax_scaler.pkl        # Scaler file for feature normalization
 │
-├── .env                        # Sensitive environment variables
+├── tests/
+│   └── test_detection.py       # Unit tests for detection
+│
 ├── requirements.txt            # Project dependencies
 ├── README.md                   # Project documentation
 └── setup.py                    # Installation script
@@ -53,58 +51,95 @@ To run this project, follow the steps below:
 
 ### 1. Install Dependencies
 
-Make sure you have Python installed. You can install the project dependencies using `pip`:
+Make sure you have Python 3 installed. Then create a virtual environment and install dependencies:
 
 ```bash
+python3 -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
 
 ### 2. Prepare the Environment
 
-Set up the environment variables by configuring the `.env` file. This file should include any sensitive or specific configuration needed by the application, such as database credentials or API keys.
+Set up the environment variables by configuring the `.env` file. This file should include any sensitive or specific configuration needed by the application, such as model paths or API keys.
 
-### 3. Start the Flask Server
+Also, make sure the `logs/` folder exists. If not, create it manually:
+
+```bash
+mkdir -p logs
+```
+
+### 3. Install and Configure TShark
+
+This project uses `pyshark`, which depends on `tshark` for packet capture. Install `tshark`:
+
+#### macOS (via Homebrew):
+
+```bash
+brew install wireshark
+sudo chgrp admin /dev/bpf*
+sudo chmod g+rw /dev/bpf*
+```
+
+Ensure `tshark` is available in your PATH:
+
+```bash
+which tshark
+```
+
+If necessary, restart your terminal or add the path to your shell config.
+
+### 4. Start the Flask Server
 
 The Flask server will act as the target for the DDoS simulation:
 
 ```bash
+chmod +x start.sh
+
 ./bin/start.sh
 ```
 
-Alternatively, if you want to start the server manually:
+### 5. Run the DDoS Detection System
+
+To start real-time detection using packet capture:
 
 ```bash
-python3 app/server.py
+sudo python3 -m app.detection
 ```
 
-### 4. Run the DDoS Detection System
+**Note:** `sudo` is required to access packet capture interfaces on most systems.
 
-To start capturing packets and detecting DDoS attacks in real-time, run:
+If using a different network interface (e.g., `en0` instead of `lo0`), edit the interface name in `app/detection.py`.
+
+### 6. Simulate DDoS Attacks
+
+Generate attack traffic to test detection:
 
 ```bash
-python3 app/detection.py
+python3 -m app.ddos_simulator.py
 ```
 
-This script will capture network traffic, extract relevant features, and use a pre-trained machine learning model to predict if the traffic is part of a DDoS attack.
+This script simulates Slowloris, Hulk, and normal traffic patterns against the Flask server.
 
-### 5. Simulate DDoS Attacks
+### 7. Monitor Logs
 
-To generate DDoS attack traffic against the Flask server, use the `ddos_simulator.py` script:
+Application logs and detection results are saved to `logs/detection.log`. Monitor them with:
 
 ```bash
-python3 app/ddos_simulator.py
+tail -f logs/detection.log
 ```
 
-This script will simulate a high volume of requests targeting the server, which will be detected by the real-time detection system.
+### 8. Notes About Model Compatibility
 
-### 6. Monitor Logs
+If you encounter warnings about scikit-learn version mismatch (e.g., when loading `.pkl` files), either:
 
-You can monitor the application logs to see real-time detection results and any issues that arise during execution:
+- Re-train and re-save the models using the current version
+- Or downgrade scikit-learn to the version used to create the models (e.g., 1.4.2):
 
 ```bash
-tail -f logs/app.log
+pip install scikit-learn==1.4.2
 ```
 
 ## Conclusion
 
-This project setup allows you to experiment with DDoS attack detection using machine learning techniques. By running the Flask server, detection system, and DDoS simulator together, you can observe how the system detects and responds to simulated attacks in real-time.
+This project setup allows experimentation with real-time DDoS attack detection using machine learning techniques. By running the Flask server, detection system, and traffic simulator together, you can observe detection results in real time and evaluate model performance in a practical scenario.
