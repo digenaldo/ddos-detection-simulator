@@ -50,6 +50,10 @@ test: clean build up
 simulator:
 	$(COMPOSE_CMD) run --rm simulator
 
+report:
+	@echo "Generating detection report..."
+	@python3 -m app.report_generator
+
 clean:
 	@echo "Cleaning up..."
 	$(COMPOSE_CMD) down -v

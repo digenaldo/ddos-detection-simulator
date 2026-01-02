@@ -111,6 +111,19 @@ podman-compose run --rm simulator
 podman-compose logs -f detection
 ```
 
+**Generate detection report:**
+```bash
+./scripts/generate_report.sh
+# Or using Make:
+make report
+```
+
+The report shows:
+- Total predictions made
+- Number of attacks detected vs normal traffic
+- Confidence statistics for attacks and normal traffic
+- Recent predictions with timestamps
+
 **Stop all services:**
 ```bash
 ./scripts/stop_all.sh

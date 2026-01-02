@@ -18,20 +18,54 @@ fi
 echo "Starting DDoS Detection System..."
 echo ""
 
-# Clean up old containers first
-echo "Cleaning up old containers (if any)..."
-$COMPOSE_CMD down 2>/dev/null || true
+# Function to check if container exists and is running
+check_and_start_container() {
+    local name=$1
+    if command -v podman &> /dev/null; then
+        if podman ps -a --format "{{.Names}}" | grep -q "^${name}$"; then
+            if podman ps --format "{{.Names}}" | grep -q "^${name}$"; then
+                echo "  ✓ Container ${name} is already running"
+                return 0
+            else
+                echo "  → Starting existing container ${name}..."
+                podman start ${name} 2>/dev/null && return 0
+            fi
+        fi
+    elif command -v docker &> /dev/null; then
+        if docker ps -a --format "{{.Names}}" | grep -q "^${name}$"; then
+            if docker ps --format "{{.Names}}" | grep -q "^${name}$"; then
+                echo "  ✓ Container ${name} is already running"
+                return 0
+            else
+                echo "  → Starting existing container ${name}..."
+                docker start ${name} 2>/dev/null && return 0
+            fi
+        fi
+    fi
+    return 1
+}
 
-# Force remove containers by name (in case compose didn't catch them)
-if command -v podman &> /dev/null; then
-    podman rm -f ddos-server ddos-detection ddos-simulator 2>/dev/null || true
-elif command -v docker &> /dev/null; then
-    docker rm -f ddos-server ddos-detection ddos-simulator 2>/dev/null || true
+echo "Checking existing containers..."
+SERVER_RUNNING=0
+DETECTION_RUNNING=0
+
+if check_and_start_container "ddos-server"; then
+    SERVER_RUNNING=1
 fi
 
-echo ""
-# Start server and detection
-$COMPOSE_CMD up -d server detection
+if check_and_start_container "ddos-detection"; then
+    DETECTION_RUNNING=1
+fi
+
+# Only use compose if containers don't exist
+if [ $SERVER_RUNNING -eq 0 ] || [ $DETECTION_RUNNING -eq 0 ]; then
+    echo ""
+    echo "Starting missing containers with compose..."
+    $COMPOSE_CMD up -d server detection
+else
+    echo ""
+    echo "All containers are already running!"
+fi
 
 echo ""
 echo "Services started!"
