@@ -57,7 +57,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: ddos-simulator
+    # Note: no container_name for simulator since it runs with --rm
     command: python3 -m app.ddos_simulator
     networks:
       - ddos-network
@@ -68,8 +68,7 @@ services:
       - FLASK_PORT=5050
       - LOG_LEVEL=INFO
     depends_on:
-      server:
-        condition: service_healthy
+      - server
     profiles:
       - test
 

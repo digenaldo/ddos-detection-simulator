@@ -6,11 +6,9 @@ set -e
 # Check if using podman or docker
 if command -v podman &> /dev/null; then
     COMPOSE_CMD="podman-compose"
-    REPLACE_FLAG="--replace"
     echo "Using Podman Compose"
 elif command -v docker &> /dev/null; then
     COMPOSE_CMD="docker-compose"
-    REPLACE_FLAG=""
     echo "Using Docker Compose"
 else
     echo "Error: Neither podman-compose nor docker-compose found"
@@ -26,11 +24,7 @@ $COMPOSE_CMD down 2>/dev/null || true
 
 echo ""
 # Start server and detection
-if [ -n "$REPLACE_FLAG" ]; then
-    $COMPOSE_CMD up -d $REPLACE_FLAG server detection
-else
-    $COMPOSE_CMD up -d server detection
-fi
+$COMPOSE_CMD up -d server detection
 
 echo ""
 echo "Services started!"

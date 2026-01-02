@@ -11,11 +11,9 @@ echo ""
 # Check if using podman or docker
 if command -v podman &> /dev/null; then
     COMPOSE_CMD="podman-compose"
-    REPLACE_FLAG="--replace"
     echo "✓ Using Podman Compose"
 elif command -v docker &> /dev/null; then
     COMPOSE_CMD="docker-compose"
-    REPLACE_FLAG=""
     echo "✓ Using Docker Compose"
 else
     echo "✗ Error: Neither podman-compose nor docker-compose found"
@@ -33,11 +31,7 @@ $COMPOSE_CMD build
 
 echo ""
 echo "Step 3: Starting server and detection system..."
-if [ -n "$REPLACE_FLAG" ]; then
-    $COMPOSE_CMD up -d $REPLACE_FLAG server detection
-else
-    $COMPOSE_CMD up -d server detection
-fi
+$COMPOSE_CMD up -d server detection
 
 echo ""
 echo "Waiting for services to be ready..."
@@ -61,6 +55,15 @@ echo "    - Slowloris attack (5 threads)"
 echo "    - Hulk attack (5 threads)"
 echo ""
 
+# Ensure server is running before running simulator (idempotent)
+echo "Ensuring server is running..."
+$COMPOSE_CMD up -d --no-recreate server 2>/dev/null || $COMPOSE_CMD up -d server 2>/dev/null || true
+
+# Wait a moment for server to be ready
+sleep 2
+
+# Run simulator
+echo "Starting simulation..."
 $COMPOSE_CMD run --rm simulator
 
 echo ""
