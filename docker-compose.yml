@@ -1,0 +1,79 @@
+version: '3.8'
+
+services:
+  # Flask server - target for DDoS attacks
+  server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ddos-server
+    command: python3 -m app.server
+    ports:
+      - "5050:5050"
+    volumes:
+      - ./logs:/app/logs
+      - ./models:/app/models
+    environment:
+      - FLASK_HOST=0.0.0.0
+      - FLASK_PORT=5050
+      - LOG_LEVEL=INFO
+      - DEBUG=false
+    networks:
+      - ddos-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5050/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+
+  # Detection system - monitors network traffic
+  detection:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ddos-detection
+    command: python3 -m app.detection
+    network_mode: host
+    cap_add:
+      - NET_RAW
+      - NET_ADMIN
+    volumes:
+      - ./logs:/app/logs
+      - ./models:/app/models
+    environment:
+      - NETWORK_INTERFACE=lo
+      - BPF_FILTER=tcp port 5050
+      - LOG_LEVEL=INFO
+    depends_on:
+      server:
+        condition: service_healthy
+    restart: unless-stopped
+    # Note: network_mode: host allows packet capture on the host network
+    # For Podman, you may need to run with: podman-compose --network host up
+
+  # DDoS simulator - generates attack traffic
+  simulator:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ddos-simulator
+    command: python3 -m app.ddos_simulator
+    networks:
+      - ddos-network
+    volumes:
+      - ./logs:/app/logs
+    environment:
+      - FLASK_HOST=server
+      - FLASK_PORT=5050
+      - LOG_LEVEL=INFO
+    depends_on:
+      server:
+        condition: service_healthy
+    profiles:
+      - test
+
+networks:
+  ddos-network:
+    driver: bridge
+

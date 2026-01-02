@@ -18,6 +18,12 @@ ddos-detection-project/
 ├── bin/
 │   └── start.sh                # Script to start the application
 │
+├── scripts/
+│   ├── quick_test.sh           # Quick test script for Docker/Podman
+│   ├── start_all.sh            # Start all services
+│   ├── stop_all.sh             # Stop all services
+│   └── test_detection.sh       # Full test script
+│
 ├── app/
 │   ├── __init__.py             # Module initialization
 │   ├── server.py               # Flask server code
@@ -41,13 +47,104 @@ ddos-detection-project/
 │   └── test_detection.py       # Unit tests for detection
 │
 ├── requirements.txt            # Project dependencies
+├── Dockerfile                  # Docker image definition
+├── docker-compose.yml          # Docker Compose configuration
+├── .dockerignore               # Docker ignore patterns
 ├── README.md                   # Project documentation
 └── setup.py                    # Installation script
 ```
 
-## How to Run the Project
+## Quick Start with Docker/Podman (Recommended)
 
-To run this project, follow the steps below:
+The easiest way to run and test the DDoS detection system is using Docker Compose or Podman Compose.
+
+> **📖 For a quick 3-step guide, see [QUICKSTART.md](QUICKSTART.md)**
+
+### Prerequisites
+
+- **Podman** (recommended) or **Docker** installed
+- **podman-compose** or **docker-compose** installed
+
+#### Install Podman Compose (if using Podman):
+
+```bash
+# On Fedora/RHEL
+sudo dnf install podman-compose
+
+# On Ubuntu/Debian
+pip install podman-compose
+
+# Or using pip
+pip install podman-compose
+```
+
+### Quick Test
+
+Run the complete test with a single command:
+
+```bash
+./scripts/quick_test.sh
+```
+
+This script will:
+1. Build the Docker images
+2. Start the Flask server and detection system
+3. Run a DDoS attack simulation
+4. Show you the detection results
+
+### Manual Control
+
+**Start all services:**
+```bash
+./scripts/start_all.sh
+# Or manually:
+podman-compose up -d server detection
+```
+
+**Run attack simulation:**
+```bash
+podman-compose run --rm simulator
+```
+
+**View detection logs:**
+```bash
+podman-compose logs -f detection
+```
+
+**Stop all services:**
+```bash
+./scripts/stop_all.sh
+# Or manually:
+podman-compose down
+```
+
+**Clean up old containers (if you get name conflicts):**
+```bash
+./scripts/cleanup.sh
+# Or manually:
+podman-compose down
+podman rm -f ddos-server ddos-detection ddos-simulator
+```
+
+### Services
+
+- **server**: Flask server running on port 5050 (target for attacks)
+- **detection**: Real-time DDoS detection system monitoring network traffic
+- **simulator**: DDoS attack simulator (runs on demand)
+
+### Network Configuration
+
+The detection service uses `network_mode: "service:server"` to share the network namespace with the server, allowing it to capture traffic on the loopback interface (`lo`).
+
+For Podman, you may need to run with rootless mode or configure capabilities:
+```bash
+# If you encounter permission issues, you might need:
+sudo podman-compose up -d
+```
+
+## How to Run the Project (Manual Installation)
+
+To run this project manually, follow the steps below:
 
 ### 1. Install Dependencies
 
@@ -61,13 +158,20 @@ pip install -r requirements.txt
 
 ### 2. Prepare the Environment
 
-Set up the environment variables by configuring the `.env` file. This file should include any sensitive or specific configuration needed by the application, such as model paths or API keys.
-
-Also, make sure the `logs/` folder exists. If not, create it manually:
+The project uses environment variables for configuration. Copy the example file and customize it:
 
 ```bash
-mkdir -p logs
+cp .env.example .env
 ```
+
+Edit `.env` to configure:
+- Network interface for packet capture
+- Flask server host and port
+- Log levels
+- Model paths
+- Other settings
+
+The directories `logs/` and `models/` will be created automatically if they don't exist.
 
 ### 3. Install and Configure TShark
 
@@ -109,7 +213,7 @@ sudo python3 -m app.detection
 
 **Note:** `sudo` is required to access packet capture interfaces on most systems.
 
-If using a different network interface (e.g., `en0` instead of `lo0`), edit the interface name in `app/detection.py`.
+**Note:** The network interface can be configured via the `NETWORK_INTERFACE` environment variable in `.env` (default: `lo0`).
 
 ### 6. Simulate DDoS Attacks
 
@@ -139,6 +243,44 @@ If you encounter warnings about scikit-learn version mismatch (e.g., when loadin
 ```bash
 pip install scikit-learn==1.4.2
 ```
+
+## Running Tests
+
+To run the unit tests:
+
+```bash
+python3 -m pytest tests/
+```
+
+Or using unittest:
+
+```bash
+python3 -m unittest discover tests
+```
+
+## Project Improvements
+
+Recent improvements to the project include:
+
+- ✅ **Docker/Podman support**: Easy deployment with Docker Compose or Podman Compose
+- ✅ **Refactored code structure**: Removed global variables, implemented classes for better organization
+- ✅ **Centralized configuration**: All settings managed through `config/settings.py` and environment variables
+- ✅ **Improved error handling**: Better exception handling and validation throughout the codebase
+- ✅ **Type hints and documentation**: Added type hints and docstrings to all modules
+- ✅ **Centralized logging**: Unified logging configuration with proper log rotation
+- ✅ **Unit tests**: Basic test suite for core functionality
+- ✅ **Better code organization**: Separated concerns using classes and proper data structures
+- ✅ **Test scripts**: Easy-to-use scripts for testing the detection system
+
+## Configuration
+
+The project supports configuration via environment variables. See `.env.example` for all available options:
+
+- `NETWORK_INTERFACE`: Network interface for packet capture
+- `FLASK_HOST` / `FLASK_PORT`: Flask server configuration
+- `LOG_LEVEL`: Logging level (DEBUG, INFO, WARNING, ERROR)
+- `MODEL_PATH` / `SCALER_PATH`: Paths to ML model files
+- `FLOW_TIMEOUT`: Timeout for flow tracking in seconds
 
 ## Conclusion
 
