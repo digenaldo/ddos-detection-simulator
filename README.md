@@ -40,8 +40,8 @@ ddos-detection-project/
 │   └── app.log                 # Application log file
 │
 ├── models/
-│   ├── random_forest_model.pkl  # Trained model file
-│   └── minmax_scaler.pkl        # Scaler file for feature normalization
+│   ├── random_forest_min-max_scaling_model.pkl  # Trained model file
+│   └── random_forest_min-max_scaling_scaler.pkl # Scaler file for feature normalization
 │
 ├── tests/
 │   └── test_detection.py       # Unit tests for detection
@@ -262,6 +262,21 @@ If you encounter warnings about scikit-learn version mismatch (e.g., when loadin
 ```bash
 pip install scikit-learn==1.4.2
 ```
+
+## Verifying ML Models
+
+Before running the detection system, verify that the ML models are present:
+
+```bash
+./scripts/verify_models.sh
+```
+
+This will check:
+- Model file exists (`random_forest_min-max_scaling_model.pkl`)
+- Scaler file exists (`random_forest_min-max_scaling_scaler.pkl`)
+- Model paths are correctly configured
+
+**Note**: Models are versioned in git and should be present in the `models/` directory. If models are missing, the detection system will fail to start.
 
 ## Running Tests
 

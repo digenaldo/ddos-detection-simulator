@@ -7376,3 +7376,1234 @@
 2026-01-02 12:19:31 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:19:31] "GET /health HTTP/1.1" 200 -
 2026-01-02 12:19:42 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:19:42] "GET /health HTTP/1.1" 200 -
 2026-01-02 12:19:53 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:19:53] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:20:04 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:20:04] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:20:15 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:20:15] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:20:26 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:20:26] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:20:37 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:20:37] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:20:39 - werkzeug - INFO - 10.89.2.10 - - [02/Jan/2026 12:20:39] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:44 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:44 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:44] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:45 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:45 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:45] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:46 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:46 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:46] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:47 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:47 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:47] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - __main__ - INFO - Request received at '/' route
+2026-01-02 12:20:48 - werkzeug - INFO - 10.89.2.13 - - [02/Jan/2026 12:20:48] "GET / HTTP/1.1" 200 -
+2026-01-02 12:20:48 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:20:48] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:20:59 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:20:59] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:21:10 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:21:10] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:21:21 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:21:21] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:21:32 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:21:32] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:21:43 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:21:43] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:21:54 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:21:54] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:22:05 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:22:05] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:22:16 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:22:16] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:22:27 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:22:27] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:22:38 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:22:38] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:22:49 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:22:49] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:23:00 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:23:00] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:23:10 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:23:10] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:23:21 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:23:21] "GET /health HTTP/1.1" 200 -
+2026-01-02 12:23:32 - werkzeug - INFO - 127.0.0.1 - - [02/Jan/2026 12:23:32] "GET /health HTTP/1.1" 200 -
