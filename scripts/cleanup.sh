@@ -15,11 +15,20 @@ fi
 
 echo "Cleaning up DDoS Detection containers..."
 
-# Stop and remove containers
+# Stop and remove containers using compose
 $COMPOSE_CMD down 2>/dev/null || true
 
+# Force stop containers first
+echo "Stopping containers..."
+$CONTAINER_CMD stop ddos-server ddos-detection ddos-simulator 2>/dev/null || true
+
 # Remove containers by name (in case compose didn't catch them)
+echo "Removing containers..."
 $CONTAINER_CMD rm -f ddos-server ddos-detection ddos-simulator 2>/dev/null || true
+
+# Also remove any containers with the project prefix
+echo "Removing containers with project prefix..."
+$CONTAINER_CMD ps -a --filter "name=ddos-detection-simulator" --format "{{.Names}}" | xargs -r $CONTAINER_CMD rm -f 2>/dev/null || true
 
 echo "Cleanup complete!"
 echo ""

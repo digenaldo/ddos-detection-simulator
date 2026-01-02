@@ -22,6 +22,13 @@ echo ""
 echo "Cleaning up old containers (if any)..."
 $COMPOSE_CMD down 2>/dev/null || true
 
+# Force remove containers by name (in case compose didn't catch them)
+if command -v podman &> /dev/null; then
+    podman rm -f ddos-server ddos-detection ddos-simulator 2>/dev/null || true
+elif command -v docker &> /dev/null; then
+    docker rm -f ddos-server ddos-detection ddos-simulator 2>/dev/null || true
+fi
+
 echo ""
 # Start server and detection
 $COMPOSE_CMD up -d server detection

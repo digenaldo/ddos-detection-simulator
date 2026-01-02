@@ -120,9 +120,15 @@ podman-compose down
 
 **Clean up old containers (if you get name conflicts):**
 ```bash
+# Standard cleanup
 ./scripts/cleanup.sh
+
+# Force cleanup (if standard doesn't work)
+./scripts/force_cleanup.sh
+
 # Or manually:
 podman-compose down
+podman stop ddos-server ddos-detection ddos-simulator
 podman rm -f ddos-server ddos-detection ddos-simulator
 ```
 

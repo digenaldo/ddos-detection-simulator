@@ -65,11 +65,15 @@ make down        # Stop services
 
 **Container name already in use?**
 ```bash
-# Clean up old containers
+# Try standard cleanup first
 ./scripts/cleanup.sh
+
+# If that doesn't work, use force cleanup
+./scripts/force_cleanup.sh
 
 # Or manually:
 podman-compose down
+podman stop ddos-server ddos-detection ddos-simulator
 podman rm -f ddos-server ddos-detection ddos-simulator
 ```
 

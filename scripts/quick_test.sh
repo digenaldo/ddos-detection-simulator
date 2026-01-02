@@ -23,7 +23,17 @@ fi
 
 echo ""
 echo "Step 1: Cleaning up old containers (if any)..."
+# Stop and remove containers using compose
 $COMPOSE_CMD down 2>/dev/null || true
+
+# Force remove containers by name (in case compose didn't catch them)
+if command -v podman &> /dev/null; then
+    echo "Force removing containers by name..."
+    podman rm -f ddos-server ddos-detection ddos-simulator 2>/dev/null || true
+elif command -v docker &> /dev/null; then
+    echo "Force removing containers by name..."
+    docker rm -f ddos-server ddos-detection ddos-simulator 2>/dev/null || true
+fi
 
 echo ""
 echo "Step 2: Building images..."

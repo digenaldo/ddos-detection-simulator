@@ -23,6 +23,11 @@ build:
 up:
 	@echo "Cleaning up old containers..."
 	@$(COMPOSE_CMD) down 2>/dev/null || true
+	@if command -v podman > /dev/null 2>&1; then \
+		podman rm -f ddos-server ddos-detection ddos-simulator 2>/dev/null || true; \
+	elif command -v docker > /dev/null 2>&1; then \
+		docker rm -f ddos-server ddos-detection ddos-simulator 2>/dev/null || true; \
+	fi
 	@echo "Starting services..."
 	@$(COMPOSE_CMD) up -d server detection
 	@echo "Services started! Server: http://localhost:5050"
